@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/AutoSeries/Form1.cs) (VB: [Form1.vb](./VB/AutoSeries/Form1.vb))
+* [Program.cs](./CS/AutoSeries/Program.cs) (VB: [Program.vb](./VB/AutoSeries/Program.vb))
+<!-- default file list end -->
 # How to assign a secondary axis to auto-created series
 
 
