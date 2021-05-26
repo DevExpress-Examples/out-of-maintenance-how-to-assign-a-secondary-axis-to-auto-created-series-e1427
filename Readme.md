@@ -6,8 +6,6 @@
 # How to assign a secondary axis to auto-created series
 
 
-<p>This example demonstrates how auto-created series (series which are <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5795.htm">automatically generated</a> based on their template) can be accessed at runtime, e.g. to assign a <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5798.htm">secondary axis</a> to them.</p><p>For this, you should handle a specific <strong>BoundDataChanged</strong> event of the chart control, where you can obtain these series.</p>
+This example demonstrates how auto-created series (series which are [automatically generated](https://docs.devexpress.com/WindowsForms/6562/controls-and-libraries/chart-control/provide-data/generate-series-from-a-data-source) based on their template) can be accessed at runtime, e.g. to assign a [secondary axis](https://docs.devexpress.com/WindowsForms/5798/controls-and-libraries/chart-control/axes/primary-and-secondary-axes) to them.
 
-<br/>
-
-
+For this, you should handle a specific [BoundDataChanged](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.BoundDataChanged?p=netframework) event of the chart control, where you can obtain these series.
